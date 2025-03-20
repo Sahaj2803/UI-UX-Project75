@@ -1,0 +1,238 @@
+.wireframe-8,
+.wireframe-8 * {
+  box-sizing: border-box;
+}
+.wireframe-8 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.wildlife-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0.8;
+  width: 114.03%;
+  height: 100%;
+  position: absolute;
+  right: -7.01%;
+  left: -7.01%;
+  bottom: 0%;
+  top: 0%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.rectangle-2 {
+  background: #2c333d;
+  width: 92.43%;
+  height: 11.23%;
+  position: absolute;
+  right: 0%;
+  left: 7.57%;
+  bottom: 78.61%;
+  top: 10.16%;
+}
+.image-1 {
+  width: 7.5%;
+  height: 10.16%;
+  position: absolute;
+  right: 92.5%;
+  left: 0%;
+  bottom: 89.84%;
+  top: 0%;
+  object-fit: cover;
+}
+.implementation-case-studies {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 7.57%;
+  width: 92.43%;
+  bottom: 76.37%;
+  top: 10.16%;
+  height: 13.48%;
+}
+.rectengle-removebg-preview-1 {
+  width: 34.72%;
+  height: 48.83%;
+  position: absolute;
+  right: 57.99%;
+  left: 7.29%;
+  bottom: 32.81%;
+  top: 18.36%;
+  object-fit: cover;
+}
+.rectengle-removebg-preview-2 {
+  width: 34.72%;
+  height: 48.83%;
+  position: absolute;
+  right: 7.36%;
+  left: 57.92%;
+  bottom: 32.81%;
+  top: 18.36%;
+  object-fit: cover;
+}
+.ellipse-1 {
+  background: #2c333d;
+  border-radius: 50%;
+  width: 11.25%;
+  height: 14.84%;
+  position: absolute;
+  right: 69.72%;
+  left: 19.03%;
+  bottom: 61.82%;
+  top: 23.34%;
+}
+.ellipse-2 {
+  background: #2c333d;
+  border-radius: 50%;
+  width: 11.25%;
+  height: 14.84%;
+  position: absolute;
+  right: 19.1%;
+  left: 69.65%;
+  bottom: 61.82%;
+  top: 23.34%;
+}
+.rectangle-11 {
+  background: #2c333d;
+  border-radius: 40px;
+  width: 42.78%;
+  height: 46.58%;
+  position: absolute;
+  right: 53.96%;
+  left: 3.26%;
+  bottom: 13.67%;
+  top: 39.75%;
+}
+.rectangle-12 {
+  background: #2c333d;
+  border-radius: 40px;
+  width: 42.78%;
+  height: 46.58%;
+  position: absolute;
+  right: 3.33%;
+  left: 53.89%;
+  bottom: 13.67%;
+  top: 39.75%;
+}
+._1-ai-saves-elephants-from-poachers-where-africa-problem-poachers-were-hunting-elephants-for-ivory-and-it-was-hard-to-track-them-in-large-forests-ai-solution-ai-powered-cameras-and-drones-detected-poachers-and-sent-alerts-to-rangers-ai-analyzed-elephant-movements-using-gps-collars-to-track-their-migration-result-more-elephants-were-protected-and-poaching-reduced {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  right: 55.07%;
+  left: 4.38%;
+  width: 40.56%;
+  bottom: 15.43%;
+  top: 41.41%;
+  height: 43.16%;
+}
+._1-ai-saves-elephants-from-poachers-where-africa-problem-poachers-were-hunting-elephants-for-ivory-and-it-was-hard-to-track-them-in-large-forests-ai-solution-ai-powered-cameras-and-drones-detected-poachers-and-sent-alerts-to-rangers-ai-analyzed-elephant-movements-using-gps-collars-to-track-their-migration-result-more-elephants-were-protected-and-poaching-reduced-span {
+  color: #ffffff;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 35px;
+  font-weight: 400;
+}
+._1-ai-saves-elephants-from-poachers-where-africa-problem-poachers-were-hunting-elephants-for-ivory-and-it-was-hard-to-track-them-in-large-forests-ai-solution-ai-powered-cameras-and-drones-detected-poachers-and-sent-alerts-to-rangers-ai-analyzed-elephant-movements-using-gps-collars-to-track-their-migration-result-more-elephants-were-protected-and-poaching-reduced-span2 {
+  color: #ffffff;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+._1-ai-saves-elephants-from-poachers-where-africa-problem-poachers-were-hunting-elephants-for-ivory-and-it-was-hard-to-track-them-in-large-forests-ai-solution-ai-powered-cameras-and-drones-detected-poachers-and-sent-alerts-to-rangers-ai-analyzed-elephant-movements-using-gps-collars-to-track-their-migration-result-more-elephants-were-protected-and-poaching-reduced-span3 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.div {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  right: 55.07%;
+  left: 4.38%;
+  width: 40.56%;
+  bottom: 31.64%;
+  top: 25.2%;
+  height: 43.16%;
+}
+._2-ai-helps-count-tigers-where-india-problem-tigers-were-difficult-to-count-because-they-live-in-dense-forests-ai-solution-ai-studied-camera-trap-photos-and-recognized-tigers-by-their-unique-stripe-patterns-it-counted-tigers-automatically-making-the-process-faster-and-more-accurate-result-scientists-could-track-tiger-populations-better-and-protect-them {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  right: 4.1%;
+  left: 54.93%;
+  width: 40.97%;
+  bottom: 15.43%;
+  top: 41.11%;
+  height: 43.46%;
+}
+._2-ai-helps-count-tigers-where-india-problem-tigers-were-difficult-to-count-because-they-live-in-dense-forests-ai-solution-ai-studied-camera-trap-photos-and-recognized-tigers-by-their-unique-stripe-patterns-it-counted-tigers-automatically-making-the-process-faster-and-more-accurate-result-scientists-could-track-tiger-populations-better-and-protect-them-span {
+  color: #ffffff;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+._2-ai-helps-count-tigers-where-india-problem-tigers-were-difficult-to-count-because-they-live-in-dense-forests-ai-solution-ai-studied-camera-trap-photos-and-recognized-tigers-by-their-unique-stripe-patterns-it-counted-tigers-automatically-making-the-process-faster-and-more-accurate-result-scientists-could-track-tiger-populations-better-and-protect-them-span2 {
+  color: #ffffff;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+._2-ai-helps-count-tigers-where-india-problem-tigers-were-difficult-to-count-because-they-live-in-dense-forests-ai-solution-ai-studied-camera-trap-photos-and-recognized-tigers-by-their-unique-stripe-patterns-it-counted-tigers-automatically-making-the-process-faster-and-more-accurate-result-scientists-could-track-tiger-populations-better-and-protect-them-span3 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 128px;
+  font-weight: 400;
+  position: absolute;
+  right: 19.1%;
+  left: 71.39%;
+  width: 9.51%;
+  bottom: 65.04%;
+  top: 23.34%;
+  height: 11.62%;
+}
+.rectangle-1 {
+  background: #2c333d;
+  border-radius: 50px;
+  width: 22.36%;
+  height: 8.5%;
+  position: absolute;
+  right: 4.58%;
+  left: 73.06%;
+  bottom: 1.95%;
+  top: 89.55%;
+}
+.next-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 4.58%;
+  left: 76.88%;
+  width: 18.54%;
+  bottom: 1.07%;
+  top: 91.31%;
+  height: 7.62%;
+}

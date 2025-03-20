@@ -1,0 +1,263 @@
+.wireframe-6,
+.wireframe-6 * {
+  box-sizing: border-box;
+}
+.wireframe-6 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.wildlife-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0.5;
+  width: 114.03%;
+  height: 100.49%;
+  position: absolute;
+  right: -7.01%;
+  left: -7.01%;
+  bottom: -0.49%;
+  top: 0%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.screenshot-2025-01-30-150747-removebg-preview-1 {
+  width: 21.25%;
+  height: 18.55%;
+  position: absolute;
+  right: 52.36%;
+  left: 26.39%;
+  bottom: 37.3%;
+  top: 44.14%;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+}
+.screenshot-2025-01-30-150747-removebg-preview-3 {
+  width: 21.25%;
+  height: 18.55%;
+  position: absolute;
+  right: 51.81%;
+  left: 26.94%;
+  bottom: -4.69%;
+  top: 86.13%;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+}
+.screenshot-2025-01-30-150747-removebg-preview-2 {
+  width: 21.25%;
+  height: 18.55%;
+  position: absolute;
+  right: 5.56%;
+  left: 73.19%;
+  bottom: 34.08%;
+  top: 47.36%;
+  object-fit: cover;
+}
+.vector-1 {
+  width: 6.62%;
+  height: 6.34%;
+  position: absolute;
+  right: 77.04%;
+  left: 16.34%;
+  bottom: 55.37%;
+  top: 38.29%;
+  transform: translate(-96.82px, -66.39px);
+  overflow: visible;
+}
+.vector-4 {
+  width: 6.62%;
+  height: 6.34%;
+  position: absolute;
+  right: 76.49%;
+  left: 16.89%;
+  bottom: 13.38%;
+  top: 80.28%;
+  transform: translate(-96.82px, -66.39px);
+  overflow: visible;
+}
+.vector-3 {
+  width: 6.62%;
+  height: 6.34%;
+  position: absolute;
+  right: 10.14%;
+  left: 83.25%;
+  bottom: 40.45%;
+  top: 53.21%;
+  overflow: visible;
+}
+.rectangle-2 {
+  background: #2c333d;
+  width: 92.43%;
+  height: 11.23%;
+  position: absolute;
+  right: 0%;
+  left: 7.57%;
+  bottom: 78.61%;
+  top: 10.16%;
+}
+.image-1 {
+  width: 7.5%;
+  height: 10.16%;
+  position: absolute;
+  right: 92.5%;
+  left: 0%;
+  bottom: 89.84%;
+  top: 0%;
+  object-fit: cover;
+}
+.ai-algorithm-for-wildlife-monitoring {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  right: 0.07%;
+  left: 7.5%;
+  width: 92.43%;
+  bottom: 74.41%;
+  top: 12.11%;
+  height: 13.48%;
+}
+.image-recognition-ai-looks-at-photos-and-videos-from-cameras-placed-in-forests-and-identifies-animals-automatically-it-can-recognize-different-species-count-them-and-track-their-movements {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  right: 2.71%;
+  left: 26.32%;
+  width: 70.97%;
+  bottom: 55.86%;
+  top: 27.93%;
+  height: 16.21%;
+}
+.image-recognition-ai-looks-at-photos-and-videos-from-cameras-placed-in-forests-and-identifies-animals-automatically-it-can-recognize-different-species-count-them-and-track-their-movements-span {
+  color: #000000;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.image-recognition-ai-looks-at-photos-and-videos-from-cameras-placed-in-forests-and-identifies-animals-automatically-it-can-recognize-different-species-count-them-and-track-their-movements-span2 {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.white-camera-smart-drone-png-images-drone-illustration-smart-drone-electric-aircraft-png-transparent-background-pngtree-removebg-preview-1 {
+  width: 13.06%;
+  height: 19.82%;
+  position: absolute;
+  right: 77.71%;
+  left: 9.24%;
+  bottom: 12.5%;
+  top: 67.68%;
+  object-fit: cover;
+}
+.sound-analysis-ai-listens-to-animal-sounds-from-forests-or-oceans-and-identifies-which-animals-are-present-this-helps-track-rare-and-hidden-animals-without-disturbing-them {
+  color: #000000;
+  text-align: right;
+  position: absolute;
+  right: 27.15%;
+  left: 7.01%;
+  width: 65.83%;
+  bottom: 34.08%;
+  top: 47.17%;
+  height: 18.75%;
+}
+.sound-analysis-ai-listens-to-animal-sounds-from-forests-or-oceans-and-identifies-which-animals-are-present-this-helps-track-rare-and-hidden-animals-without-disturbing-them-span {
+  color: #000000;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.sound-analysis-ai-listens-to-animal-sounds-from-forests-or-oceans-and-identifies-which-animals-are-present-this-helps-track-rare-and-hidden-animals-without-disturbing-them-span2 {
+  color: #000000;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.sound-analysis-ai-listens-to-animal-sounds-from-forests-or-oceans-and-identifies-which-animals-are-present-this-helps-track-rare-and-hidden-animals-without-disturbing-them-span3 {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.div {
+  color: #000000;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  left: 171px;
+  top: 318px;
+}
+.sound-1 {
+  width: 7.99%;
+  height: 7.42%;
+  position: absolute;
+  right: 10.62%;
+  left: 81.39%;
+  bottom: 39.94%;
+  top: 52.64%;
+  object-fit: cover;
+}
+.drone-satellite-monitoring-ai-analyzes-images-from-drones-and-satellites-to-spot-animal-groups-habitat-loss-and-illegal-activities-like-deforestation-or-poaching {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  right: 6.04%;
+  left: 26.94%;
+  width: 67.01%;
+  bottom: 12.5%;
+  top: 70.61%;
+  height: 16.89%;
+}
+.drone-satellite-monitoring-ai-analyzes-images-from-drones-and-satellites-to-spot-animal-groups-habitat-loss-and-illegal-activities-like-deforestation-or-poaching-span {
+  color: #000000;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.drone-satellite-monitoring-ai-analyzes-images-from-drones-and-satellites-to-spot-animal-groups-habitat-loss-and-illegal-activities-like-deforestation-or-poaching-span2 {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.rectangle-1 {
+  background: #2c333d;
+  border-radius: 50px;
+  width: 22.36%;
+  height: 8.5%;
+  position: absolute;
+  right: 3.4%;
+  left: 74.24%;
+  bottom: 4.49%;
+  top: 87.01%;
+}
+.next-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 3.4%;
+  left: 78.06%;
+  width: 18.54%;
+  bottom: 3.61%;
+  top: 88.77%;
+  height: 7.62%;
+}

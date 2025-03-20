@@ -1,0 +1,238 @@
+.wireframe-9,
+.wireframe-9 * {
+  box-sizing: border-box;
+}
+.wireframe-9 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.wildlife-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0.8;
+  width: 114.03%;
+  height: 100%;
+  position: absolute;
+  right: -7.01%;
+  left: -7.01%;
+  bottom: 0%;
+  top: 0%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.rectangle-2 {
+  background: #2c333d;
+  width: 92.43%;
+  height: 11.23%;
+  position: absolute;
+  right: 0%;
+  left: 7.57%;
+  bottom: 78.61%;
+  top: 10.16%;
+}
+.image-1 {
+  width: 7.5%;
+  height: 10.16%;
+  position: absolute;
+  right: 92.5%;
+  left: 0%;
+  bottom: 89.84%;
+  top: 0%;
+  object-fit: cover;
+}
+.implementation-case-studies {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 100px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 7.57%;
+  width: 92.43%;
+  bottom: 76.37%;
+  top: 10.16%;
+  height: 13.48%;
+}
+.rectengle-removebg-preview-1 {
+  width: 34.72%;
+  height: 48.83%;
+  position: absolute;
+  right: 57.99%;
+  left: 7.29%;
+  bottom: 32.81%;
+  top: 18.36%;
+  object-fit: cover;
+}
+.rectengle-removebg-preview-2 {
+  width: 34.72%;
+  height: 48.83%;
+  position: absolute;
+  right: 7.36%;
+  left: 57.92%;
+  bottom: 32.81%;
+  top: 18.36%;
+  object-fit: cover;
+}
+.ellipse-1 {
+  background: #2c333d;
+  border-radius: 50%;
+  width: 11.25%;
+  height: 14.84%;
+  position: absolute;
+  right: 69.72%;
+  left: 19.03%;
+  bottom: 61.82%;
+  top: 23.34%;
+}
+.ellipse-2 {
+  background: #2c333d;
+  border-radius: 50%;
+  width: 11.25%;
+  height: 14.84%;
+  position: absolute;
+  right: 19.1%;
+  left: 69.65%;
+  bottom: 61.82%;
+  top: 23.34%;
+}
+.rectangle-11 {
+  background: #2c333d;
+  border-radius: 40px;
+  width: 42.78%;
+  height: 46.58%;
+  position: absolute;
+  right: 53.96%;
+  left: 3.26%;
+  bottom: 13.67%;
+  top: 39.75%;
+}
+.rectangle-12 {
+  background: #2c333d;
+  border-radius: 40px;
+  width: 42.78%;
+  height: 46.58%;
+  position: absolute;
+  right: 3.33%;
+  left: 53.89%;
+  bottom: 13.67%;
+  top: 39.75%;
+}
+._3-ai-detects-whales-by-sound-where-oceans-usa-canada-problem-whales-were-hard-to-see-underwater-and-ship-traffic-was-disturbing-them-ai-solution-ai-listened-to-underwater-sounds-and-identified-different-whale-species-it-warned-ships-to-slow-down-when-whales-were-nearby-preventing-accidents-result-fewer-whale-injuries-better-protection-for-marine-life {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  right: 55.07%;
+  left: 4.38%;
+  width: 40.56%;
+  bottom: 15.43%;
+  top: 41.41%;
+  height: 43.16%;
+}
+._3-ai-detects-whales-by-sound-where-oceans-usa-canada-problem-whales-were-hard-to-see-underwater-and-ship-traffic-was-disturbing-them-ai-solution-ai-listened-to-underwater-sounds-and-identified-different-whale-species-it-warned-ships-to-slow-down-when-whales-were-nearby-preventing-accidents-result-fewer-whale-injuries-better-protection-for-marine-life-span {
+  color: #ffffff;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+._3-ai-detects-whales-by-sound-where-oceans-usa-canada-problem-whales-were-hard-to-see-underwater-and-ship-traffic-was-disturbing-them-ai-solution-ai-listened-to-underwater-sounds-and-identified-different-whale-species-it-warned-ships-to-slow-down-when-whales-were-nearby-preventing-accidents-result-fewer-whale-injuries-better-protection-for-marine-life-span2 {
+  color: #ffffff;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+._3-ai-detects-whales-by-sound-where-oceans-usa-canada-problem-whales-were-hard-to-see-underwater-and-ship-traffic-was-disturbing-them-ai-solution-ai-listened-to-underwater-sounds-and-identified-different-whale-species-it-warned-ships-to-slow-down-when-whales-were-nearby-preventing-accidents-result-fewer-whale-injuries-better-protection-for-marine-life-span3 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+._4-ai-tracks-deforestation-in-the-amazon-where-amazon-rainforest-problem-illegal-tree-cutting-was-destroying-animal-habitats-ai-solution-ai-analyzed-satellite-images-to-detect-deforestation-in-real-time-it-alerted-authorities-so-they-could-stop-illegal-logging-result-forest-loss-was-reduced-and-animal-habitats-were-protected {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  right: 4.1%;
+  left: 54.93%;
+  width: 40.97%;
+  bottom: 15.43%;
+  top: 41.11%;
+  height: 43.46%;
+}
+._4-ai-tracks-deforestation-in-the-amazon-where-amazon-rainforest-problem-illegal-tree-cutting-was-destroying-animal-habitats-ai-solution-ai-analyzed-satellite-images-to-detect-deforestation-in-real-time-it-alerted-authorities-so-they-could-stop-illegal-logging-result-forest-loss-was-reduced-and-animal-habitats-were-protected-span {
+  color: #ffffff;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+._4-ai-tracks-deforestation-in-the-amazon-where-amazon-rainforest-problem-illegal-tree-cutting-was-destroying-animal-habitats-ai-solution-ai-analyzed-satellite-images-to-detect-deforestation-in-real-time-it-alerted-authorities-so-they-could-stop-illegal-logging-result-forest-loss-was-reduced-and-animal-habitats-were-protected-span2 {
+  color: #ffffff;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+._4-ai-tracks-deforestation-in-the-amazon-where-amazon-rainforest-problem-illegal-tree-cutting-was-destroying-animal-habitats-ai-solution-ai-analyzed-satellite-images-to-detect-deforestation-in-real-time-it-alerted-authorities-so-they-could-stop-illegal-logging-result-forest-loss-was-reduced-and-animal-habitats-were-protected-span3 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 128px;
+  font-weight: 400;
+  position: absolute;
+  right: 71.6%;
+  left: 19.72%;
+  width: 8.68%;
+  bottom: 61.82%;
+  top: 24.02%;
+  height: 14.16%;
+}
+.div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 115px;
+  font-weight: 400;
+  position: absolute;
+  right: 20.76%;
+  left: 71.25%;
+  width: 7.99%;
+  bottom: 62.3%;
+  top: 24.8%;
+  height: 12.89%;
+}
+.rectangle-3 {
+  background: #2c333d;
+  border-radius: 50px;
+  width: 22.36%;
+  height: 8.5%;
+  position: absolute;
+  right: 73.89%;
+  left: 3.75%;
+  bottom: 1.95%;
+  top: 89.55%;
+}
+.previous-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 74.79%;
+  left: 4.58%;
+  width: 20.62%;
+  bottom: 0.88%;
+  top: 91.21%;
+  height: 7.91%;
+}

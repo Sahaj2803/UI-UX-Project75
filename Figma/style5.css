@@ -1,0 +1,130 @@
+.wireframe-4,
+.wireframe-4 * {
+  box-sizing: border-box;
+}
+.wireframe-4 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.wildlife-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0.5;
+  width: 114.03%;
+  height: 100%;
+  position: absolute;
+  right: -7.01%;
+  left: -7.01%;
+  bottom: 0%;
+  top: 0%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.rectangle-2 {
+  background: #2c333d;
+  width: 92.43%;
+  height: 11.23%;
+  position: absolute;
+  right: 0%;
+  left: 7.57%;
+  bottom: 78.61%;
+  top: 10.16%;
+}
+.image-1 {
+  width: 7.5%;
+  height: 10.16%;
+  position: absolute;
+  right: 92.5%;
+  left: 0%;
+  bottom: 89.84%;
+  top: 0%;
+  object-fit: cover;
+}
+.introduction {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 135px;
+  font-weight: 400;
+  position: absolute;
+  right: 9.17%;
+  left: 16.11%;
+  width: 74.72%;
+  bottom: 77.44%;
+  top: 9.08%;
+  height: 13.48%;
+}
+.why-ai-is-useful-for-wildlife-conservation-faster-and-more-accurate-ai-works-faster-and-reduces-mistakes-in-identifying-animals-24-7-monitoring-ai-can-track-wildlife-and-threats-like-poaching-in-real-time-saves-time-money-ai-reduces-the-need-for-large-field-teams-and-makes-conservation-efforts-more-efficient-better-protection-for-animals-ai-helps-researchers-and-governments-make-smart-decisions-to-save-endangered-species {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  right: 3.89%;
+  left: 4.58%;
+  width: 91.53%;
+  bottom: 44.43%;
+  top: 26.86%;
+  height: 28.71%;
+}
+.why-ai-is-useful-for-wildlife-conservation-faster-and-more-accurate-ai-works-faster-and-reduces-mistakes-in-identifying-animals-24-7-monitoring-ai-can-track-wildlife-and-threats-like-poaching-in-real-time-saves-time-money-ai-reduces-the-need-for-large-field-teams-and-makes-conservation-efforts-more-efficient-better-protection-for-animals-ai-helps-researchers-and-governments-make-smart-decisions-to-save-endangered-species-span {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.why-ai-is-useful-for-wildlife-conservation-faster-and-more-accurate-ai-works-faster-and-reduces-mistakes-in-identifying-animals-24-7-monitoring-ai-can-track-wildlife-and-threats-like-poaching-in-real-time-saves-time-money-ai-reduces-the-need-for-large-field-teams-and-makes-conservation-efforts-more-efficient-better-protection-for-animals-ai-helps-researchers-and-governments-make-smart-decisions-to-save-endangered-species-span2 {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.conclusion-ai-is-making-wildlife-conservation-easier-and-more-effective-by-using-ai-technology-we-can-protect-animals-stop-poaching-and-save-nature-for-the-future {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  right: 3.89%;
+  left: 4.72%;
+  width: 91.39%;
+  bottom: 21%;
+  top: 57.13%;
+  height: 21.88%;
+}
+.conclusion-ai-is-making-wildlife-conservation-easier-and-more-effective-by-using-ai-technology-we-can-protect-animals-stop-poaching-and-save-nature-for-the-future-span {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.conclusion-ai-is-making-wildlife-conservation-easier-and-more-effective-by-using-ai-technology-we-can-protect-animals-stop-poaching-and-save-nature-for-the-future-span2 {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.rectangle-3 {
+  background: #2c333d;
+  border-radius: 50px;
+  width: 22.36%;
+  height: 8.5%;
+  position: absolute;
+  right: 74.72%;
+  left: 2.92%;
+  bottom: 4.49%;
+  top: 87.01%;
+}
+.previous-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 75.62%;
+  left: 3.75%;
+  width: 20.62%;
+  bottom: 3.42%;
+  top: 88.67%;
+  height: 7.91%;
+}

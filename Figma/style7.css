@@ -1,0 +1,197 @@
+.wireframe-7,
+.wireframe-7 * {
+  box-sizing: border-box;
+}
+.wireframe-7 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.wildlife-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0.5;
+  width: 114.03%;
+  height: 100.49%;
+  position: absolute;
+  right: -7.01%;
+  left: -7.01%;
+  bottom: -0.49%;
+  top: 0%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.rectangle-2 {
+  background: #2c333d;
+  width: 92.43%;
+  height: 11.23%;
+  position: absolute;
+  right: 0%;
+  left: 7.57%;
+  bottom: 78.61%;
+  top: 10.16%;
+}
+.image-1 {
+  width: 7.5%;
+  height: 10.16%;
+  position: absolute;
+  right: 92.5%;
+  left: 0%;
+  bottom: 89.84%;
+  top: 0%;
+  object-fit: cover;
+}
+.ai-algorithm-for-wildlife-monitoring {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 80px;
+  font-weight: 400;
+  position: absolute;
+  right: 0.07%;
+  left: 7.5%;
+  width: 92.43%;
+  bottom: 74.41%;
+  top: 12.11%;
+  height: 13.48%;
+}
+.screenshot-2025-01-30-150747-removebg-preview-1 {
+  width: 21.25%;
+  height: 18.55%;
+  position: absolute;
+  right: 53.75%;
+  left: 25%;
+  bottom: 35.35%;
+  top: 46.09%;
+  transform-origin: 0 0;
+  transform: rotate(-180deg) scale(1, 1);
+  object-fit: cover;
+}
+.vector-1 {
+  width: 6.62%;
+  height: 6.34%;
+  position: absolute;
+  right: 78.43%;
+  left: 14.95%;
+  bottom: 53.42%;
+  top: 40.24%;
+  transform: translate(-96.82px, -66.39px);
+  overflow: visible;
+}
+.movement-tracking-gps-ai-studies-gps-data-from-collars-or-tags-placed-on-animals-to-track-their-movement-and-migration-patterns-it-helps-understand-where-animals-go-where-they-find-food-and-how-they-adapt-to-climate-change {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  right: 4.1%;
+  left: 24.93%;
+  width: 70.97%;
+  bottom: 52.25%;
+  top: 29.88%;
+  height: 17.87%;
+}
+.movement-tracking-gps-ai-studies-gps-data-from-collars-or-tags-placed-on-animals-to-track-their-movement-and-migration-patterns-it-helps-understand-where-animals-go-where-they-find-food-and-how-they-adapt-to-climate-change-span {
+  color: #000000;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.movement-tracking-gps-ai-studies-gps-data-from-collars-or-tags-placed-on-animals-to-track-their-movement-and-migration-patterns-it-helps-understand-where-animals-go-where-they-find-food-and-how-they-adapt-to-climate-change-span2 {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.screenshot-2025-01-30-150747-removebg-preview-2 {
+  width: 21.25%;
+  height: 18.55%;
+  position: absolute;
+  right: 2.08%;
+  left: 76.67%;
+  bottom: 27.34%;
+  top: 54.1%;
+  object-fit: cover;
+}
+.vector-3 {
+  width: 6.62%;
+  height: 6.34%;
+  position: absolute;
+  right: 6.66%;
+  left: 86.72%;
+  bottom: 33.71%;
+  top: 59.95%;
+  overflow: visible;
+}
+.predicting-threats-behavior-ai-can-predict-dangers-like-poaching-natural-disasters-or-diseases-affecting-wildlife-it-helps-conservationists-take-action-before-it-s-too-late {
+  color: #000000;
+  text-align: right;
+  position: absolute;
+  right: 23.68%;
+  left: 10.49%;
+  width: 65.83%;
+  bottom: 27.34%;
+  top: 53.91%;
+  height: 18.75%;
+}
+.predicting-threats-behavior-ai-can-predict-dangers-like-poaching-natural-disasters-or-diseases-affecting-wildlife-it-helps-conservationists-take-action-before-it-s-too-late-span {
+  color: #000000;
+  list-style-type: decimal;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.predicting-threats-behavior-ai-can-predict-dangers-like-poaching-natural-disasters-or-diseases-affecting-wildlife-it-helps-conservationists-take-action-before-it-s-too-late-span2 {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+}
+.gps-removebg-preview-1 {
+  width: 5.28%;
+  height: 7.42%;
+  position: absolute;
+  right: 85.07%;
+  left: 9.65%;
+  bottom: 59.18%;
+  top: 33.4%;
+  object-fit: cover;
+}
+.gps-removebg-preview-1-1 {
+  width: 5.42%;
+  height: 7.62%;
+  position: absolute;
+  right: 8.75%;
+  left: 85.83%;
+  bottom: 33.11%;
+  top: 59.28%;
+  object-fit: cover;
+}
+.rectangle-3 {
+  background: #2c333d;
+  border-radius: 50px;
+  width: 22.36%;
+  height: 8.5%;
+  position: absolute;
+  right: 74.24%;
+  left: 3.4%;
+  bottom: 4.49%;
+  top: 87.01%;
+}
+.previous-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 75.14%;
+  left: 4.24%;
+  width: 20.62%;
+  bottom: 3.42%;
+  top: 88.67%;
+  height: 7.91%;
+}

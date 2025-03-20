@@ -1,0 +1,138 @@
+.wireframe-3,
+.wireframe-3 * {
+  box-sizing: border-box;
+}
+.wireframe-3 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.wildlife-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0.5;
+  width: 114.03%;
+  height: 100%;
+  position: absolute;
+  right: -7.01%;
+  left: -7.01%;
+  bottom: 0%;
+  top: 0%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.rectangle-2 {
+  background: #2c333d;
+  width: 92.43%;
+  height: 11.23%;
+  position: absolute;
+  right: 0%;
+  left: 7.57%;
+  bottom: 78.61%;
+  top: 10.16%;
+}
+.image-1 {
+  width: 7.5%;
+  height: 10.16%;
+  position: absolute;
+  right: 92.5%;
+  left: 0%;
+  bottom: 89.84%;
+  top: 0%;
+  object-fit: cover;
+}
+.introduction {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 135px;
+  font-weight: 400;
+  position: absolute;
+  right: 9.17%;
+  left: 16.11%;
+  width: 74.72%;
+  bottom: 77.44%;
+  top: 9.08%;
+  height: 13.48%;
+}
+.introduction-to-ai-based-wildlife-conservation-wildlife-conservation-is-important-to-protect-animals-and-nature-however-tracking-and-monitoring-animals-in-forests-oceans-and-remote-areas-can-be-very-difficult-this-is-where-artificial-intelligence-ai-helps {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  right: 2.15%;
+  left: 3.75%;
+  width: 94.1%;
+  bottom: 58.01%;
+  top: 26.46%;
+  height: 15.53%;
+}
+.introduction-to-ai-based-wildlife-conservation-wildlife-conservation-is-important-to-protect-animals-and-nature-however-tracking-and-monitoring-animals-in-forests-oceans-and-remote-areas-can-be-very-difficult-this-is-where-artificial-intelligence-ai-helps-span {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.introduction-to-ai-based-wildlife-conservation-wildlife-conservation-is-important-to-protect-animals-and-nature-however-tracking-and-monitoring-animals-in-forests-oceans-and-remote-areas-can-be-very-difficult-this-is-where-artificial-intelligence-ai-helps-span2 {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.how-ai-helps-in-wildlife-conservation-ai-uses-smart-technology-to-track-study-and-protect-wildlife-more-easily-and-accurately-here-s-how-cameras-ai-ai-studies-photos-and-videos-from-cameras-in-forests-to-identify-animals-and-track-their-movements-sound-tracking-ai-listens-to-animal-sounds-to-find-and-study-them-in-jungles-and-oceans-drones-satellites-ai-processes-aerial-images-to-monitor-animals-forests-and-environmental-changes-predicting-problems-ai-can-predict-threats-like-poaching-habitat-destruction-or-disease-outbreaks-in-animals {
+  color: #000000;
+  text-align: left;
+  position: absolute;
+  right: 2.15%;
+  left: 3.82%;
+  width: 94.03%;
+  bottom: 21.88%;
+  top: 45.12%;
+  height: 33.01%;
+}
+.how-ai-helps-in-wildlife-conservation-ai-uses-smart-technology-to-track-study-and-protect-wildlife-more-easily-and-accurately-here-s-how-cameras-ai-ai-studies-photos-and-videos-from-cameras-in-forests-to-identify-animals-and-track-their-movements-sound-tracking-ai-listens-to-animal-sounds-to-find-and-study-them-in-jungles-and-oceans-drones-satellites-ai-processes-aerial-images-to-monitor-animals-forests-and-environmental-changes-predicting-problems-ai-can-predict-threats-like-poaching-habitat-destruction-or-disease-outbreaks-in-animals-span {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 40px;
+  font-weight: 400;
+}
+.how-ai-helps-in-wildlife-conservation-ai-uses-smart-technology-to-track-study-and-protect-wildlife-more-easily-and-accurately-here-s-how-cameras-ai-ai-studies-photos-and-videos-from-cameras-in-forests-to-identify-animals-and-track-their-movements-sound-tracking-ai-listens-to-animal-sounds-to-find-and-study-them-in-jungles-and-oceans-drones-satellites-ai-processes-aerial-images-to-monitor-animals-forests-and-environmental-changes-predicting-problems-ai-can-predict-threats-like-poaching-habitat-destruction-or-disease-outbreaks-in-animals-span2 {
+  color: #000000;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.how-ai-helps-in-wildlife-conservation-ai-uses-smart-technology-to-track-study-and-protect-wildlife-more-easily-and-accurately-here-s-how-cameras-ai-ai-studies-photos-and-videos-from-cameras-in-forests-to-identify-animals-and-track-their-movements-sound-tracking-ai-listens-to-animal-sounds-to-find-and-study-them-in-jungles-and-oceans-drones-satellites-ai-processes-aerial-images-to-monitor-animals-forests-and-environmental-changes-predicting-problems-ai-can-predict-threats-like-poaching-habitat-destruction-or-disease-outbreaks-in-animals-span3 {
+  color: #000000;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+}
+.rectangle-1 {
+  background: #2c333d;
+  border-radius: 50px;
+  width: 22.36%;
+  height: 8.5%;
+  position: absolute;
+  right: 4.44%;
+  left: 73.19%;
+  bottom: 4.49%;
+  top: 87.01%;
+}
+.next-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 4.44%;
+  left: 77.01%;
+  width: 18.54%;
+  bottom: 3.61%;
+  top: 88.77%;
+  height: 7.62%;
+}

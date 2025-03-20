@@ -1,0 +1,80 @@
+.wireframe-12,
+.wireframe-12 * {
+  box-sizing: border-box;
+}
+.wireframe-12 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.wildlife-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0.95;
+  width: 114.03%;
+  height: 100%;
+  position: absolute;
+  right: -7.01%;
+  left: -7.01%;
+  bottom: 0%;
+  top: 0%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.pngegg-1 {
+  width: 52.64%;
+  height: 106.84%;
+  position: absolute;
+  right: 19.79%;
+  left: 27.57%;
+  bottom: -3.42%;
+  top: -3.42%;
+  object-fit: cover;
+}
+.image-1 {
+  width: 11.18%;
+  height: 14.84%;
+  position: absolute;
+  right: 88.82%;
+  left: 0%;
+  bottom: 85.16%;
+  top: 0%;
+  object-fit: cover;
+}
+.pngimg-com-thank-you-png-116-1 {
+  width: 35.83%;
+  height: 40.14%;
+  position: absolute;
+  right: 62.5%;
+  left: 1.67%;
+  bottom: 36.23%;
+  top: 23.63%;
+  object-fit: cover;
+}
+.rectangle-1 {
+  background: #2c333d;
+  border-radius: 50px;
+  width: 22.36%;
+  height: 8.5%;
+  position: absolute;
+  right: 2.64%;
+  left: 75%;
+  bottom: 1.95%;
+  top: 89.55%;
+}
+.home-page {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  position: absolute;
+  right: 2.64%;
+  left: 78.82%;
+  width: 18.54%;
+  bottom: 1.07%;
+  top: 91.31%;
+  height: 7.62%;
+}

@@ -1,0 +1,226 @@
+.wireframe-2,
+.wireframe-2 * {
+  box-sizing: border-box;
+}
+.wireframe-2 {
+  background: #ffffff;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.wireframe-2__wildlife-1 {
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  opacity: 0.75;
+  width: 114.03%;
+  height: 100%;
+  position: absolute;
+  right: -7.01%;
+  left: -7.01%;
+  bottom: 0%;
+  top: 0%;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}
+.wireframe-2__rectangle-2 {
+  background: #2c333d;
+  width: 92.43%;
+  height: 11.23%;
+  position: absolute;
+  right: 0%;
+  left: 7.57%;
+  bottom: 78.61%;
+  top: 10.16%;
+}
+.wireframe-2__component {
+  width: 1076px;
+  height: 138px;
+  position: absolute;
+  left: 237px;
+  top: 93px;
+}
+.wireframe-2__contents {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 135px;
+  font-weight: 400;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  width: 100%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.wireframe-2__rectangle-3 {
+  background: #2c333d;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 32px;
+  top: 342px;
+}
+.wireframe-2__rectangle-5 {
+  background: #2c333d;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 32px;
+  top: 600px;
+}
+.wireframe-2__rectangle-4 {
+  background: #2c333d;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 32px;
+  top: 470px;
+}
+.wireframe-2__rectangle-6 {
+  background: #2c333d;
+  width: 90px;
+  height: 90px;
+  position: absolute;
+  left: 32px;
+  top: 730px;
+}
+.wireframe-2___1 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: 32px;
+  top: 333px;
+  width: 87px;
+  height: 82px;
+}
+.wireframe-2___2 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: 32px;
+  top: 464px;
+  width: 90px;
+  height: 90px;
+}
+.wireframe-2___4 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: 30px;
+  top: 718px;
+  width: 92px;
+  height: 77px;
+}
+.wireframe-2___3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 96px;
+  font-weight: 400;
+  position: absolute;
+  left: 36px;
+  top: 588px;
+  width: 82px;
+  height: 83px;
+}
+.wireframe-2__rectangle-7 {
+  background: #2c333d;
+  width: 1254px;
+  height: 91px;
+  position: absolute;
+  left: 143px;
+  top: 342px;
+}
+.wireframe-2__rectangle-8 {
+  background: #2c333d;
+  width: 1254px;
+  height: 91px;
+  position: absolute;
+  left: 143px;
+  top: 470px;
+}
+.wireframe-2__rectangle-9 {
+  background: #2c333d;
+  width: 1254px;
+  height: 91px;
+  position: absolute;
+  left: 143px;
+  top: 599px;
+}
+.wireframe-2__rectangle-10 {
+  background: #2c333d;
+  width: 1254px;
+  height: 91px;
+  position: absolute;
+  left: 148px;
+  top: 730px;
+}
+.wireframe-2__introduction {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  position: absolute;
+  left: 152px;
+  top: 355px;
+  width: 456px;
+  height: 87px;
+}
+.wireframe-2__ai-algorithm-for-wildlife-monitoring {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  position: absolute;
+  left: 152px;
+  top: 485px;
+  width: 1245px;
+  height: 69px;
+}
+.wireframe-2__implementation-case-studies {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  position: absolute;
+  left: 149px;
+  top: 605px;
+  width: 1238px;
+  height: 85px;
+}
+.wireframe-2__future-directions-in-ai-conservation {
+  color: #ffffff;
+  text-align: left;
+  font-family: "AbhayaLibreExtraBold-Regular", sans-serif;
+  font-size: 70px;
+  font-weight: 400;
+  position: absolute;
+  left: 154px;
+  top: 739px;
+  width: 1243px;
+  height: 82px;
+}
+.wireframe-2__image-1 {
+  width: 7.5%;
+  height: 10.16%;
+  position: absolute;
+  right: 92.99%;
+  left: -0.49%;
+  bottom: 89.84%;
+  top: 0%;
+  object-fit: cover;
+}
